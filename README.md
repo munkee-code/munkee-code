@@ -1,6 +1,6 @@
 ## Yo, I'm Samuel 🐵
 
-👨‍🎓 Mechatronic Engineering student at UTS<br/>
+👨‍🎓 Mechatronics Engineering student at UTS<br/>
 👨‍💻 I like Arduino stuff<br/>
 🤖 Also robots<br/>
 
